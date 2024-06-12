@@ -1,4 +1,4 @@
-StudentGradeSystem Solidity Contract
+##StudentGradeSystem Solidity Contract
 This Solidity program is a smart contract called StudentGradeSystem. It manages student information, including name, marks, pass status, and course. The purpose of this program is to serve as a basic example of using Solidity for managing structured data on the Ethereum blockchain. This program can be a starting point for more complex student information management systems.
 
 Description
